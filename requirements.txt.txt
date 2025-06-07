@@ -1,0 +1,5 @@
+discord.py
+langchain
+transformers
+accelerate
+python-dotenv
